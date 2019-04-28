@@ -1,0 +1,3 @@
+/home/jeff/Development/Projects/temperature-sensor-reader/build/CMakeFiles/rebuild_cache.dir
+/home/jeff/Development/Projects/temperature-sensor-reader/build/CMakeFiles/tempsensors.dir
+/home/jeff/Development/Projects/temperature-sensor-reader/build/CMakeFiles/edit_cache.dir
