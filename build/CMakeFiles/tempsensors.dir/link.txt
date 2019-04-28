@@ -1,1 +1,0 @@
-/usr/bin/cc    CMakeFiles/tempsensors.dir/src/temperature_sensor.c.o CMakeFiles/tempsensors.dir/src/main.c.o  -o tempsensors 
